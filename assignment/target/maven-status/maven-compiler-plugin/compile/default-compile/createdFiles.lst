@@ -1,0 +1,6 @@
+com/happyfox/pages/LoginPage.class
+com/happyfox/pages/AddPriorityPage.class
+com/happyfox/pages/AddStatusesPage.class
+com/happyfox/pages/ManagePage.class
+com/happyfox/base/HappyFoxTestBase.class
+com/happyfox/pages/TicketsHomePage.class

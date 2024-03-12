@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sanity Suite">
+  <test name="HappyFox Assignement">
+    <classes>
+      <class name="com.happyfox.tests.Scenario_1_2_3_combinedTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
